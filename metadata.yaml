@@ -1,0 +1,36 @@
+_repo: Halloween-a-Romaunt-with-Lays-Meditative-and-Devotional_56420
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Gimbrede, Joseph Napoleon
+    alias: Gimbrede, J. N. (Joseph Napoleon)
+    birthdate: 1820
+    gutenberg_agent_id: '48831'
+    url: http://www.gutenberg.org/2009/agents/48831
+creator:
+  author:
+    agent_name: Coxe, A. Cleveland (Arthur Cleveland)
+    aliases:
+    - Cox, Arthur Cleveland
+    - Coxe, Arthur Cleveland, Bp.
+    - Coxe, Arthur Cleveland
+    birthdate: 1818
+    deathdate: 1896
+    gutenberg_agent_id: '47638'
+    url: http://www.gutenberg.org/2009/agents/47638
+description: ''
+gutenberg_issued: '2018-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56420'
+  lccn: '76260518'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Halloween'
+- GITenberg
+title: Halloween, a Romaunt; with Lays Meditative and Devotional
+url: http://www.gutenberg.org/ebooks/56420
